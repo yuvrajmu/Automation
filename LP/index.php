@@ -21,7 +21,6 @@
           <label>
             <input type="checkbox" name="remember_me" id="remember_me">
             Remember me on this computer
-
           </label>
         </p>
         <p class="submit"><input type="submit" name="commit" value="Login"></p>
